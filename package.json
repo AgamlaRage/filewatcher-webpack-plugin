@@ -18,18 +18,7 @@
   "author": "Saptarshi Chatterjee <saptarshichatterjee1@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/sap9433/filewatcher-webpack-plugin",
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.0.2",
-    "path": "^0.12.7"
-  },
   "dependencies": {
-    "chokidar": "^2.1.5",
-    "jsx-loader": "^0.13.2",
-    "node-async-require-loader": "^2.0.0",
-    "node-fetch": "^2.3.0",
-    "react": "^16.8.6",
-    "webpack": "^4.29.6",
-    "webpack-dev-server": "^3.2.1"
+    "chokidar": "^2.1.5"
   }
 }
